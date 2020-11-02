@@ -1,5 +1,5 @@
 # rime-xhup
-Rime 小鹤双拼音形输入方案，需要使用最新版的 librime（1.3.2+）。
+Rime 小鹤双拼挂形（双拼+双形+整句输入）输入方案。
 
 ## 特性
 
@@ -35,8 +35,7 @@ Rime 小鹤双拼音形输入方案，需要使用最新版的 librime（1.3.2+�
 
 ## 使用方法
 
-1. 将 yaml 文件拷贝至 Rime 配置目录内。
-2. 从[小鹤双拼官方](http://flypy.ys168.com/)下载「小鹤音形Rime平台for Linux」，并将其中的 bin 文件拷贝至 Rime 的 build 目录内。
+将 yaml 文件拷贝至 Rime 配置目录内。
 
 ## 许可证
 
